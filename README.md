@@ -7,4 +7,4 @@ npm install
 npm start
 ```
 
-That should compile everything for you and launch a browser that will react to changes in any file.
+That should compile everything for you and launch a browser that will react to changes in any file.# ng2-slideout-menu
